@@ -1,6 +1,6 @@
 {
   "name": "QUIET",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Truc4/QUIET",
   "description": "Replaces the Hunter's attack sound with Johnny Lawrence's 'Quiet!' from Cobra Kai",
   "dependencies": [
