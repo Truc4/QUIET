@@ -1,6 +1,7 @@
 {
   "name": "QUIET",
   "version_number": "1.0.0",
-  "description": "Replaces the Hunter sound",
+  "website_url": "https://github.com/Truc4/QUIET",
+  "description": "Replaces the Hunter's attack sound with Johnny Lawrence's 'Quiet!' from Cobra Kai",
   "dependencies": ["BepInEx-BepInExPack-5.4.2100", "loaforc-loaforcsSoundAPI-*"]
 }
