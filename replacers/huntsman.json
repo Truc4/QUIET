@@ -1,0 +1,28 @@
+{
+  "replacements": [
+    {
+      "matches": "*:enemy hunter aim start01",
+      "sounds": [{ "sound": "quiet_1.ogg" }]
+    },
+    {
+      "matches": "*:enemy hunter aim start02",
+      "sounds": [{ "sound": "quiet_2.ogg" }]
+    },
+    {
+      "matches": "*:enemy hunter aim start03",
+      "sounds": [{ "sound": "quiet_3.ogg" }]
+    },
+    {
+      "matches": "*:enemy hunter aim start global01",
+      "sounds": [{ "sound": "quiet_1.ogg" }]
+    },
+    {
+      "matches": "*:enemy hunter aim start global02",
+      "sounds": [{ "sound": "quiet_2.ogg" }]
+    },
+    {
+      "matches": "*:enemy hunter aim start global03",
+      "sounds": [{ "sound": "quiet_3.ogg" }]
+    }
+  ]
+}
